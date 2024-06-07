@@ -6,25 +6,25 @@
 
 # 포함된 코드
 1. 파이썬 환경 설치:
-  - 파이썬 3.9.0(64bit) 설치
-  - 파이참 CE 설치
+  - 파이썬 3.9.0(64bit) 설치(https://www.python.org/downloads/release/python-390/)
+  - 파이참 CE 설치(https://www.jetbrains.com/ko-kr/pycharm/download/?section=mac)
    
 2. 파이썬 프로그래밍 실습:
   - 음성 인식 패키지 설치 및 활용 (STT)
   - 영상 처리 패키지 설치 및 활용
     
 3. 인공지능 프로젝트:
-  - Google Gemini API 활용 프로젝트
-  - OpenAI GPT4 API 활용 프로젝트
+  - Google Gemini API 활용 프로젝트(https://aistudio.google.com/app/apikey)
+  - OpenAI GPT4 API 활용 프로젝트(https://platform.openai.com/settings/profile?tab=api-keys)
     
 4. 컴퓨터 비전 프로젝트:
-  - Mediapipe 활용 컴퓨터 비전 프로젝트 실행
-  - Yolov8 활용 컴퓨터 비전 프로젝트 실행 (Detect)
-  - Yolov8 활용 컴퓨터 비전 프로젝트 실행 (Segment)
+  - Mediapipe 활용 컴퓨터 비전 프로젝트 실행(https://ai.google.dev/edge/mediapipe/solutions/guide?hl=ko)
+  - Yolov8 활용 컴퓨터 비전 프로젝트 실행 (Detect) (https://docs.ultralytics.com/ko/tasks/detect/)
+  - Yolov8 활용 컴퓨터 비전 프로젝트 실행 (Segment) (https://docs.ultralytics.com/ko/tasks/segment/)
     
 5. 커스텀 비전 프로젝트:
-  - Roboflow 활용 커스텀 컴퓨터 비전 프로젝트 만들기
-  - 커스텀 모델 기반 Yolov8 프로젝트 만들기
+  - Roboflow 활용 커스텀 컴퓨터 비전 프로젝트 만들기(https://roboflow.com/)
+  - 커스텀 모델 기반 Yolov8 프로젝트 만들기(https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov8-object-detection-on-custom-dataset.ipynb)
 
 # 활용 방법
   - 원하는 코드 파일을 클릭하여 내용을 확인합니다.
