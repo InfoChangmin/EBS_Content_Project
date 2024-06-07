@@ -11,6 +11,8 @@
    
 2. 파이썬 프로그래밍 실습:
   - 음성 인식 패키지 설치 및 활용 (STT)
+     SpeechRecognition 언어 종류: https://cloud.google.com/speech-to-text/docs/speech-to-text-supported-languages?hl=ko
+     맥 유저를 위한 pyaudio 설치하기: https://stackoverflow.com/questions/68251169/unable-to-install-pyaudio-on-m1-mac-portaudio-already-installed
   - 영상 처리 패키지 설치 및 활용
     
 3. 인공지능 프로젝트:
