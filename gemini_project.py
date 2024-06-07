@@ -1,7 +1,6 @@
 import google.generativeai as genai
 
 #GOOGLE_API_KEY="YOUR-API-KEY" # 내 API키로 변경
-GOOGLE_API_KEY="AIzaSyA-v85yCnqD8hfAV2cjdFIFscGqXiCbwsM" # 내 API키로 변경
 
 genai.configure(api_key=GOOGLE_API_KEY)
 

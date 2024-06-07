@@ -3,7 +3,7 @@ from openai import OpenAI
 
 client = OpenAI(
     # defaults to os.environ.get("OPENAI_API_KEY")
-    api_key="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", # 본인의 API KEY로 교체해야합니다.
+    api_key="YOUR-API-KEY", # 본인의 API KEY로 교체해야합니다.
 )
 
 completion = client.chat.completions.create(
